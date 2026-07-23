@@ -1,0 +1,6 @@
+{
+  "name": "Vivanco & Asociados - Soluciones Legales",
+  "description": "Firma jurídica de la Ab. Esperanza Vivanco en Ecuador. Soluciones legales integrales en derecho civil, familia, laboral, penal y corporativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
